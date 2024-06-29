@@ -32,7 +32,7 @@ A correlation matrix was generated and visualised using a heatmap to explore rel
 
 ## Conclusion
 
-This project provided valuable insights into maternal pregnancy risk factors. The analysis highlighted the role of age in influencing blood sugar levels and blood pressure during pregnancy. Understanding these factors can contribute to better healthcare management and risk assessment for pregnant individuals.
+This project provided valuable insights into maternal pregnancy risk factors. The analysis highlighted the role of age in influencing blood sugar levels and blood pressure during pregnancy. Understanding these factors can contribute to better healthcare management and risk assessment for pregnant individuals and can lead to making important strategical recommendations: such as, testing all pregnant people for (Gestational) Diabetes above a certain age. 
 
 ## Future Directions
 
